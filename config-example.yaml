@@ -1,0 +1,13 @@
+name: GitLab Dashboard
+
+gitlab:
+  api: https://gitlab.com/api/v4
+  host: https://gitlab.com
+
+projects:
+  - 278964   # gitlab-org/gitlab
+  - 45085871 # rafaelbmateus/gitlab-ci-example
+
+users:
+  - 1786152 # @gitlab-bot
+  - 191656  # @rafaelbmateus
