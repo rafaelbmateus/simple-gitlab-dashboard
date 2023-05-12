@@ -1,8 +1,11 @@
-name: GitLab Dashboard
+# Customize this file for your case.
+# Put the ids of the projects and users to show on the dashboard.
+
+name: GitLab Dashboard # the custom name of your page
 
 gitlab:
-  api: https://gitlab.com/api/v4
-  host: https://gitlab.com
+  api: https://gitlab.com/api/v4 # https://gitlab.example.com/api/v4
+  host: https://gitlab.com       # https://gitlab.example.com
 
 projects:
   - 278964   # gitlab-org/gitlab
